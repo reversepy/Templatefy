@@ -92,4 +92,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Credits
 
-Made by [yourusername](https://github.com/yourusername). Contributions welcome.
+Made by [reverse](https://github.com/reversepy). Contributions welcome.
